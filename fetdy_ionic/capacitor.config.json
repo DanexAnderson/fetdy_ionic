@@ -1,0 +1,8 @@
+{
+  "appId": "com.TrueFan.truefan",
+  "appName": "TrueFan",
+  "bundledWebRuntime": false,
+  "webDir": "www",
+  "linuxAndroidStudioPath": "/opt/android-studio/bin/studio.sh"
+
+}
